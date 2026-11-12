@@ -1,6 +1,4 @@
-Hi, I'm Sasan 👋
-
-AI Engineering student based in Istanbul, building tools for Windows and Android.
+AI Engineering student based in Istanbul, building almost everyhthing.
 
 Currently open to learning new things and exploring new opportunities!
 
