@@ -1,6 +1,7 @@
-AI Engineering student based in Istanbul, building almost everyhthing.
+AI Engineering student
+building almost everyhthing.
 
-Currently open to learning new things and exploring new opportunities!
+Open to learning new things and exploring new opportunities
 
 ### Languages and technologies I work with
 
